@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-marquetti-6298a773/)](https://www.linkedin.com/in/isaac-marquetti-6298a773/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isaac.marquetti/)](https://www.instagram.com/isaac.marquetti/)
+
 <!--
 **isaacmarquetti/isaacmarquetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
