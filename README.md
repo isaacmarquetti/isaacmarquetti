@@ -32,21 +32,9 @@
   <a href="https://www.linkedin.com/in/isaac-marquetti-6298a773/"><img src="https://img.shields.io/badge/-Isaac%20Marquetti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:isaac.marquetti@gmail.com"><img src="https://img.shields.io/badge/-isaac.marquetti@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-
-### GitHub Stats
-<br/>
-
-
-<center>
-    <tr>
-      <td>
-        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=isaacmarquetti&show_icons=true&count_private=true&hide_border=true&&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&include_all_commits=true&theme=nightowl" alt="Guilherme's github stats"/>
-          </a></p>
-       <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacmarquetti&hide_border=true&theme=nightowl"  alt="Isaac's github stats"/></a></p>
-      </td>
-       <td>
-        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacmarquetti&layout=compact&langs_count=20&hide_border=true&theme=nightowl" alt="Isaac's github stats"/> </a></p>
-      </td>
-      </tr>
-</center>
-<br/>
+ 
+ <div align="center">
+  <a href="https://github.com/isaacmarquetti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacmarquetti&show_icons=true&count_private=true&hide_border=true&&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&include_all_commits=true&theme=nightowl" alt="Isaac's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacmarquetti&layout=compact&langs_count=20&hide_border=true&theme=nightowl" alt="Isaac's github stats"/>
+</div>
