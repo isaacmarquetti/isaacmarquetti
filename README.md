@@ -1,31 +1,52 @@
-### Hi there 👋
+ ### Hello World !!! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-marquetti-6298a773/)](https://www.linkedin.com/in/isaac-marquetti-6298a773/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isaac.marquetti/)](https://www.instagram.com/isaac.marquetti/)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div align="left">
-  <a href="https://github.com/isaacmarquetti">
-  
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmarquetti&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### Seja bem-vindo ao meu Github
+<p>
+  Meu nome é Isaac Marquetti, sou de Itajaí - Santa Catarina (Brasil).
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
+- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas; 
 
-<!--
-**isaacmarquetti/isaacmarquetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web; 
 
-Here are some ideas to get you started:
+- 📚 Atualmente estudo a linguagem Python e Framework Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### ✉️ Contatos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/isaac-marquetti-6298a773/"><img src="https://img.shields.io/badge/-Isaac%20Marquetti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:isaac.marquetti@gmail.com"><img src="https://img.shields.io/badge/-isaac.marquetti@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
+### GitHub Stats
+<br/>
+
+
+<center>
+    <tr>
+      <td>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=isaacmarquetti&show_icons=true&count_private=true&hide_border=true&&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&include_all_commits=true&theme=nightowl" alt="Guilherme's github stats"/>
+          </a></p>
+       <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacmarquetti&hide_border=true&theme=nightowl"  alt="Isaac's github stats"/></a></p>
+      </td>
+       <td>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacmarquetti&layout=compact&langs_count=20&hide_border=true&theme=nightowl" alt="Isaac's github stats"/> </a></p>
+      </td>
+      </tr>
+</center>
+<br/>
