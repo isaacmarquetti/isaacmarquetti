@@ -7,9 +7,7 @@
   Meu nome é Isaac Marquetti, sou de Itajaí - Santa Catarina (Brasil).
 </p>
 
-- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas; 
-
-- 💻 Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web; 
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas; 
 
 - 📚 Atualmente estudo a linguagem Python e Framework Django.
 
